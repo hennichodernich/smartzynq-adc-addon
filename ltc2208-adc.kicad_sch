@@ -8517,6 +8517,16 @@
 		)
 		(uuid "feb53c17-1fea-48ca-8c66-09454e95fcf3")
 	)
+	(text "configured for 2.5V"
+		(exclude_from_sim no)
+		(at 271.78 66.802 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5ef26e0e-9478-4265-9678-ebe544836e98")
+	)
 	(label "D13_P"
 		(at 204.47 54.61 0)
 		(fields_autoplaced yes)
@@ -9850,7 +9860,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "121"
 			(at 268.478 81.2221 0)
 			(effects
 				(font
@@ -13478,7 +13488,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "121"
 			(at 268.478 90.1121 0)
 			(effects
 				(font
